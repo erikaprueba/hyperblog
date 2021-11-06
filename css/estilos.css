@@ -1,6 +1,7 @@
 body
 {
-    color:rgb(63, 165, 37);
+    color:rgb(0, 0, 0);
+    background: rgb(184, 221, 233);
     text-align:justify;
     font-family: 'Times New Roman', Times, serif;
     font-size: 16px;
@@ -10,7 +11,7 @@ body
 
 #cabecera
 {
-    background: #33a;
+    background: #33a url("imagenes/foto.jpg") ;
     box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
     color: white;
     font-weight: bolder;
